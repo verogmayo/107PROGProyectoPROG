@@ -1,0 +1,123 @@
+:root{
+    --verdeBalu:#56B8A4;
+    --rosaBalu:#FD807E;
+    --grisBalu:#E4F0ED;
+}
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+html, body{
+    height: 100%;/* Para que ocupe todo el espacio y el footer esté pegado al borde inferior*/
+}
+body{
+    background-color: var(--verdeBalu);
+    color: var(--grisBalu);
+    width: 1024px;
+}
+header{
+    text-align: center;
+    color: var(--verdeBalu);
+    height: 12em;
+    background-color: var(--grisBalu);
+    margin-bottom: 3em;
+    padding-top: 1em;
+}
+.curso{
+    font-family: 'Amatic SC';
+    font-weight: bold;
+    font-size:45px ;
+    text-align: center;
+}
+section{
+    font-family:'Handlee';
+    margin-top: 5em;
+    margin-bottom: 3em;
+    padding-top: 1em;
+
+}
+article{
+    display: flex;
+    height: 7em;
+    font-family:'Handlee';
+    align-items: center;
+    text-decoration-line: none;
+    padding-top: 1em;
+}
+div{
+    border: solid var(--rosaBalu);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5em;
+    width: 6em;
+    border-radius: 20px;
+    background-color: var(--rosaBalu);
+    font-family:'Handlee';
+    color: var(--grisBalu);
+    text-decoration-line: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: var(--grisBalu);
+}
+.xsdUni{
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+a:hover{
+    text-decoration:underline 1px var(--grisBalu); 
+}
+.xsdUniDiv{
+    height: 6.5em;
+}
+.xsdUniDiv2{
+    height: 8em;
+}
+h1{
+    font-family: 'Amatic SC';
+    font-size: 60px;
+    width: 10em;
+    margin-bottom: 3em; 
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    margin: 1em;
+}
+ul{
+text-align: center;
+list-style: none;
+
+}
+#curso2{
+    margin-top: 10em;
+    margin-bottom: 10em;
+    height: 5em;
+}
+footer{
+    margin-top: auto;
+    justify-items: center;
+    text-align: center;
+    background-color: var(--grisBalu);
+    color: black;
+    font-family: 'Handlee';
+    bottom: 0;
+    left: 0;
+    padding: 10px 0;
+}
+#nombre{
+    color: var(--rosaBalu);
+    text-decoration: none;
+    font-weight: bold;
+}
+.piep{
+    color: black;/*color de la fuente de los p del footer*/
+    margin: 5px;/*margen de los p del footer*/
+    font-family: 'Handlee';
+}
