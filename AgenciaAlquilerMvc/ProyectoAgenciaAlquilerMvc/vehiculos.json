@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "Turismo",
+    "plazas": 5,
+    "matricula": "0926GJW",
+    "grupo": "A"
+  },
+  {
+    "tipo": "Furgoneta",
+    "capacidad": 5.0,
+    "matricula": "1235GJD",
+    "grupo": "A"
+  }
+]
