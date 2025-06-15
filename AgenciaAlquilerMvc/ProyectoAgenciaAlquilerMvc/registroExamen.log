@@ -1,0 +1,16 @@
+jun 14, 2025 2:42:57 P. M. com.mycompany.agenciaalquiler1.modelo.Vehiculo <init>
+WARNING: La matricula no es valida
+jun 14, 2025 2:42:57 P. M. com.mycompany.agenciaalquiler1.controlador.Controlador crearVehiculo
+WARNING: La Matricula no es valida
+jun 14, 2025 2:43:20 P. M. com.mycompany.agenciaalquiler1.modelo.Furgoneta <init>
+WARNING: La capacidad introducida no cumple con los criterios
+jun 14, 2025 2:43:20 P. M. com.mycompany.agenciaalquiler1.controlador.Controlador crearVehiculo
+WARNING: Numero de plazas, fuera de rango
+jun 14, 2025 2:43:58 P. M. com.mycompany.agenciaalquiler1.modelo.Furgoneta <init>
+WARNING: La capacidad introducida no cumple con los criterios
+jun 14, 2025 2:43:58 P. M. com.mycompany.agenciaalquiler1.controlador.Controlador crearVehiculo
+WARNING: Numero de plazas, fuera de rango
+jun 14, 2025 2:46:45 P. M. com.mycompany.agenciaalquiler1.modelo.Furgoneta <init>
+WARNING: La capacidad introducida no cumple con los criterios
+jun 14, 2025 2:46:45 P. M. com.mycompany.agenciaalquiler1.controlador.Controlador crearVehiculo
+WARNING: Numero de plazas, fuera de rango
